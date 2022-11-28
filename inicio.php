@@ -24,12 +24,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <div class="w3-top">
   <div class="w3-bar w3-purple w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-purple" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Inicio</a>
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Equipos</a>
+    <a href="inicio.html" class="w3-bar-item w3-button w3-padding-large w3-white">Inicio</a>
+    <a href="equipos/Equipos.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Equipos</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Juegos</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Posiciones</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Clasificatorias</a>
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favoritos</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favorito</a>
     <div class="w3-right w3-hide-small">
         <?php
           if(isset($_SESSION['nombre'])){
@@ -49,12 +49,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
   <!-- Navbar on small screens -->
   <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">Equipos</a>
+    <a href="equipos/Equipos.html" class="w3-bar-item w3-button w3-padding-large">Equipos</a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large">Juegos</a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large">Posiciones</a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large">Clasificatorias</a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large">Favoritos</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">Login</a>
+    <a href="inicio_sesion/login.php" class="w3-bar-item w3-button w3-padding-large">Login</a>
   </div>
 </div>
 
