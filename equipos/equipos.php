@@ -2,7 +2,8 @@
     require "conexion.php";
     session_start();
 
-    $query = "select pais"
+    $query = "select pais from equipo";
+    $consulta = mysqli_query($conn, $query);
 
 ?>
 
@@ -18,8 +19,14 @@
     <h1>Lista de equipos</h1>
     <h3>Escoja un equipo</h3>
     <form action="equipo.php" method="post">
-        <input type="radio" name="equipo" id="equipo" value="España">
-        <label for="españa">España</label>
+        <?php while($equipo = mysqli_fetch_array($consulta)){
+
+        ?>
+        <div>
+            <input type="radio" name="equipo" id="equipo" value="España">
+            <label for="españa">España</label>
+        </div>
+        <?php } ?>
         <input type="submit" value="Enviar">
     </form>
 </body>
