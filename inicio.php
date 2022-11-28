@@ -1,3 +1,7 @@
+<?php
+  session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,7 +31,19 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Clasificatorias</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favoritos</a>
     <div class="w3-right w3-hide-small">
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Login</a>
+        <?php
+          if(isset($_SESSION['nombre'])){
+
+        ?>
+      <a href="x" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white"><?php echo $_SESSION['nombre']; ?></a>
+      <a href="logout.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Log out</a>
+        <?php } 
+          else{
+        ?>
+        <a href="x" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Visitante<a>
+        <a href="login.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Login</a>
+        <?php } 
+        ?>
     </div>
   </div>
 
