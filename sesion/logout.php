@@ -3,5 +3,5 @@
 
     session_unset();
 
-    header("location: ./inicio.php");
+    header("location: ../inicio.php");
 ?>

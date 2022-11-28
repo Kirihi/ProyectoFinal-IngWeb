@@ -1,5 +1,5 @@
 <?php
-    require "conexion.php";
+    require "../conexion.php";
     session_start();
 
     $query = "select pais from equipo";
@@ -23,8 +23,8 @@
 
         ?>
         <div>
-            <input type="radio" name="equipo" id="equipo" value="España">
-            <label for="españa">España</label>
+            <input type="radio" name="equipo" id="equipo" value="<?php echo $equipo['pais']; ?>">
+            <label for="equipo"><?php echo $equipo['pais']; ?></label>
         </div>
         <?php } ?>
         <input type="submit" value="Enviar">

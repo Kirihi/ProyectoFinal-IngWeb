@@ -25,9 +25,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-bar w3-purple w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-purple" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="inicio.html" class="w3-bar-item w3-button w3-padding-large w3-white">Inicio</a>
-    <a href="equipos/Equipos.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Equipos</a>
+    <a href="equipos/equipos.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Equipos</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Juegos</a>
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Posiciones</a>
+    <a href="grupos/elegirGrupo.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Posiciones</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Clasificatorias</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favorito</a>
     <div class="w3-right w3-hide-small">
@@ -36,12 +36,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
         ?>
       <a href="x" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white"><?php echo $_SESSION['nombre']; ?></a>
-      <a href="logout.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Log out</a>
+      <a href="./sesion/logout.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Log out</a>
         <?php } 
           else{
         ?>
         <a href="x" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Visitante<a>
-        <a href="login.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Login</a>
+        <a href="./sesion/login.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Login</a>
         <?php } 
         ?>
     </div>

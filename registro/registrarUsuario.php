@@ -8,7 +8,7 @@
     $query = "insert into usuario(nombre, username, password) values('$nombre', '$username', '$password')";
     $consulta = mysqli_query($conn, $query);
 
-    header("location: ./login.html");
+    header("location: ../inicio_sesion/login.html");
 
     mysqli_close($conn);
 ?>

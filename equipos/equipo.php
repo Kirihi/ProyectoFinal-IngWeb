@@ -1,5 +1,5 @@
 <?php
-    require 'conexion.php';
+    require '../conexion.php';
 
     $equipo = $_POST['equipo'];
 
@@ -59,8 +59,8 @@
         </table>
     </div>
     <div>
-        <form action="favorito.php" method="post">
-            <input type="checkbox" name="fav" id="fav" value="<?php $arrayEquipo['id']; ?>">
+        <form action="../favorito/favorito.php" method="post">
+            <input type="checkbox" name="fav" id="fav" value="<?php echo $arrayEquipo['id']; ?>">
             <label for="favorito">Escoger como favorito</label>
             <input type="submit" value="Enviar">
         </form>

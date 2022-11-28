@@ -16,7 +16,7 @@
 
     if($fetchArr['contar']>0){
         $_SESSION['nombre'] = $fetchArr['nombre'];
-        header("location: ./inicio.php");
+        header("location: ../inicio.php");
     }
     else{
         echo "Wrong username or password";
