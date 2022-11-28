@@ -29,7 +29,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Juegos</a>
     <a href="grupos/elegirGrupo.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Posiciones</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Clasificatorias</a>
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favorito</a>
+    <a href="./favorito/mostrarFav.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favorito</a>
     <div class="w3-right w3-hide-small">
         <?php
           if(isset($_SESSION['nombre'])){
