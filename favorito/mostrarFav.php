@@ -14,6 +14,10 @@
 
     $idFav = $arr['fav'];
 
+    if(!isset($idFav)){
+        header("location: ../avisos/noFavorito.html");
+    }
+
     $queryEquipo = "select * from equipo where id = $idFav";
     $consEquipo = mysqli_query($conn, $queryEquipo);
     $arrEquipo = mysqli_fetch_array($consEquipo);
