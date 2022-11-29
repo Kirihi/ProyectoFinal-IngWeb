@@ -1,4 +1,6 @@
 <?php
+
+#Recibir los resultados
     require "../conexion.php";
 
     session_start();

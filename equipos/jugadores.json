@@ -1,0 +1,2114 @@
+[
+    {
+      "equipo": "1",
+      "numero": "1",
+      "nombre": "Saad Al Sheeb",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "1",
+      "numero": "2",
+      "nombre": "Pedro Miguel",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "1",
+      "numero": "15",
+      "nombre": "Al Rawi",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "1",
+      "numero": "16",
+      "nombre": "Khoukhi",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "1",
+      "numero": "3",
+      "nombre": "Hassan",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "1",
+      "numero": "14",
+      "nombre": "Ahmed",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "1",
+      "numero": "10",
+      "nombre": "Al Haidos",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "1",
+      "numero": "12",
+      "nombre": "Boudiaf",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "1",
+      "numero": "6",
+      "nombre": "Hatem",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "1",
+      "numero": "19",
+      "nombre": "Ali",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "1",
+      "numero": "11",
+      "nombre": "Afif",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "3",
+      "numero": "1",
+      "nombre": "Galíndez",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "3",
+      "numero": "17",
+      "nombre": "Preciado",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "3",
+      "numero": "2",
+      "nombre": "Torres",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "3",
+      "numero": "3",
+      "nombre": "Hincapié",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "3",
+      "numero": "7",
+      "nombre": "Estupiñán",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "3",
+      "numero": "19",
+      "nombre": "Plata",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "3",
+      "numero": "20",
+      "nombre": "Méndez",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "3",
+      "numero": "23",
+      "nombre": "Caicedo",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "3",
+      "numero": "10",
+      "nombre": "Ibarra",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "3",
+      "numero": "13",
+      "nombre": "Valencia",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "3",
+      "numero": "11",
+      "nombre": "Estrada",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "1",
+      "nombre": "Pickford",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "12",
+      "nombre": "Trippier",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "5",
+      "nombre": "Stones",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "6",
+      "nombre": "Maguire",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "3",
+      "nombre": "Shaw",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "22",
+      "nombre": "Bellingham",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "4",
+      "nombre": "Rice",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "17",
+      "nombre": "Saka",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "19",
+      "nombre": "Mount",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "10",
+      "nombre": "Sterling",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Inglaterra",
+      "numero": "9",
+      "nombre": "Kane",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "1",
+      "nombre": "Beiranvand",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "2",
+      "nombre": "Moharrami",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "8",
+      "nombre": "Pouraliganji",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "15",
+      "nombre": "Cheshmi",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "19",
+      "nombre": "Hosseini",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "5",
+      "nombre": "Mohammadi",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "7",
+      "nombre": "Jahanbakhsh",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "21",
+      "nombre": "Nouollahi",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "18",
+      "nombre": "Karimi",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "3",
+      "nombre": "Hajsafi",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Irán",
+      "numero": "9",
+      "nombre": "Taremi",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "4",
+      "numero": "16",
+      "nombre": "Mendy",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "4",
+      "numero": "21",
+      "nombre": "Sabaly",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "4",
+      "numero": "3",
+      "nombre": "Koulibaly",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "4",
+      "numero": "4",
+      "nombre": "Cissé",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "4",
+      "numero": "22",
+      "nombre": "Diallo",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "4",
+      "numero": "8",
+      "nombre": "Kouyaté",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "4",
+      "numero": "6",
+      "nombre": "Mendy",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "4",
+      "numero": "15",
+      "nombre": "Diatta",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "4",
+      "numero": "5",
+      "nombre": "Gueye",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "4",
+      "numero": "18",
+      "nombre": "Sarr",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "4",
+      "numero": "9",
+      "nombre": "Dia",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "5",
+      "numero": "23",
+      "nombre": "Noppert",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "5",
+      "numero": "3",
+      "nombre": "de Ligt",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "5",
+      "numero": "4",
+      "nombre": "van Dijk",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "5",
+      "numero": "5",
+      "nombre": "Aké",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "5",
+      "numero": "22",
+      "nombre": "Dumfries",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "5",
+      "numero": "11",
+      "nombre": "Berghuis",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "5",
+      "numero": "21",
+      "nombre": "de Jong",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "5",
+      "numero": "17",
+      "nombre": "Blind",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "5",
+      "numero": "8",
+      "nombre": "Gakpo",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "5",
+      "numero": "18",
+      "nombre": "Janssen",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "5",
+      "numero": "7",
+      "nombre": "Bergwijn",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "1",
+      "nombre": "Turner",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "2",
+      "nombre": "Dest",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "3",
+      "nombre": "Zimmerman",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "13",
+      "nombre": "Ream",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "5",
+      "nombre": "Robinson",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "8",
+      "nombre": "McKennie",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "4",
+      "nombre": "Adams",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "6",
+      "nombre": "Musah",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "21",
+      "nombre": "Weah",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "24",
+      "nombre": "Sargent",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Estados Unidos",
+      "numero": "10",
+      "nombre": "Pulisic",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "1",
+      "nombre": "Hennessey",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "5",
+      "nombre": "Mepham",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "6",
+      "nombre": "Rodon",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "4",
+      "nombre": "Davies",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "14",
+      "nombre": "Roberts",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "10",
+      "nombre": "Ramsay",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "15",
+      "nombre": "Ampadu",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "8",
+      "nombre": "Wilson",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "3",
+      "nombre": "Williams",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "11",
+      "nombre": "Bale",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Gales",
+      "numero": "20",
+      "nombre": "James",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "23",
+      "nombre": "Martínez",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "26",
+      "nombre": "Molina",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "13",
+      "nombre": "Romero",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "19",
+      "nombre": "Otamendi",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "3",
+      "nombre": "Tagliafico",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "11",
+      "nombre": "Di María",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "7",
+      "nombre": "De Paul",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "5",
+      "nombre": "Paredes",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "17",
+      "nombre": "Papu Gómez",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "10",
+      "nombre": "Messi",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Argentina",
+      "numero": "22",
+      "nombre": "Martínez",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "21",
+      "nombre": "Al Owais",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "12",
+      "nombre": "Abdulhamid",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "17",
+      "nombre": "Tambakti",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "5",
+      "nombre": "Al Bulaihi",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "13",
+      "nombre": "Al-Shahrani",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "8",
+      "nombre": "Al-Malki",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "9",
+      "nombre": "al-Buraikan",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "7",
+      "nombre": "Al-Faraj",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "23",
+      "nombre": "Kanno",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "10",
+      "nombre": "Al-Dawsari",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Arabia Saudita",
+      "numero": "11",
+      "nombre": "Al-Shehri",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "1",
+      "nombre": "Schmeichel",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "2",
+      "nombre": "Andersen",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "4",
+      "nombre": "Kjaer",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "6",
+      "nombre": "Christensen",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "13",
+      "nombre": "Nissen",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "23",
+      "nombre": "Hojbjerg",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "8",
+      "nombre": "Delaney",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "10",
+      "nombre": "Eriksen",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "5",
+      "nombre": "Maehle",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "11",
+      "nombre": "Olsen",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Dinamarca",
+      "numero": "12",
+      "nombre": "Dolberg",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "16",
+      "nombre": "Dahmen",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "6",
+      "nombre": "Bronn",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "4",
+      "nombre": "Meriah",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "3",
+      "nombre": "Talbi",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "20",
+      "nombre": "Drager",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "17",
+      "nombre": "Skhiri",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "14",
+      "nombre": "Laidouni",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "24",
+      "nombre": "Abdi",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "25",
+      "nombre": "Slimane",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "7",
+      "nombre": "Msakni",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Tunisia",
+      "numero": "9",
+      "nombre": "Jebali",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "13",
+      "nombre": "Ochoa",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "19",
+      "nombre": "Sánchez",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "3",
+      "nombre": "Montes",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "15",
+      "nombre": "Moreno",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "23",
+      "nombre": "Gallardo",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "16",
+      "nombre": "Herrera",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "4",
+      "nombre": "Alvarez",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "24",
+      "nombre": "Chávez",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "22",
+      "nombre": "Lozano",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "20",
+      "nombre": "Martín",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Mexico",
+      "numero": "10",
+      "nombre": "Vega",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "1",
+      "nombre": "Szczesny",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "2",
+      "nombre": "Cash",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "15",
+      "nombre": "Glik",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "14",
+      "nombre": "Kiwior",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "18",
+      "nombre": "Bereszynski",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "10",
+      "nombre": "Krychowiak",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "13",
+      "nombre": "Kaminski",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "20",
+      "nombre": "Zielinski",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "19",
+      "nombre": "Szymanski",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "21",
+      "nombre": "Zalewski",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Polonia",
+      "numero": "9",
+      "nombre": "Lewandowski",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "1",
+      "nombre": "Lloris",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "2",
+      "nombre": "Pavard",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "24",
+      "nombre": "Konaté",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "18",
+      "nombre": "Upamecano",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "21",
+      "nombre": "Hernández",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "8",
+      "nombre": "Tchouaméni",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "14",
+      "nombre": "Rabiot",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "11",
+      "nombre": "Dembélé",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "7",
+      "nombre": "Griezmann",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "10",
+      "nombre": "Mbappe",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Francia",
+      "numero": "9",
+      "nombre": "Giroud",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "1",
+      "nombre": "Ryan",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "3",
+      "nombre": "Atkinson",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "19",
+      "nombre": "Souttar",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "4",
+      "nombre": "Rowles",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "16",
+      "nombre": "Behich",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "13",
+      "nombre": "Mooy",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "7",
+      "nombre": "Leckie",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "22",
+      "nombre": "Irvine",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "14",
+      "nombre": "McGree",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "23",
+      "nombre": "Goodwin",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Australia",
+      "numero": "15",
+      "nombre": "Duke",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "1",
+      "nombre": "Bono",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "2",
+      "nombre": "Hakimi",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "5",
+      "nombre": "Aguerd",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "6",
+      "nombre": "Saiss",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "3",
+      "nombre": "Mazraoui",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "8",
+      "nombre": "Ounahi",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "4",
+      "nombre": "Amrabat",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "15",
+      "nombre": "Amallah",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "7",
+      "nombre": "Ziyech",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "19",
+      "nombre": "En-Nesyri",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Marruecos",
+      "numero": "17",
+      "nombre": "Boufal",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "1",
+      "nombre": "Livakovic",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "22",
+      "nombre": "Juranovic",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "6",
+      "nombre": "Lovren",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "20",
+      "nombre": "Gvardiol",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "19",
+      "nombre": "Sosa",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "10",
+      "nombre": "Modric",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "11",
+      "nombre": "Brozovic",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "8",
+      "nombre": "Kovacic",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "13",
+      "nombre": "Vlasic",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "9",
+      "nombre": "Kramaric",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Croacia",
+      "numero": "4",
+      "nombre": "Perisic",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "1",
+      "nombre": "Neuer",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "15",
+      "nombre": "Sule",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "2",
+      "nombre": "Rudiger",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "23",
+      "nombre": "Schlotterbeck",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "3",
+      "nombre": "Raum",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "6",
+      "nombre": "Kimmich",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "21",
+      "nombre": "Gundogan",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "10",
+      "nombre": "Gnabry",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "13",
+      "nombre": "Muller",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "14",
+      "nombre": "Musiala",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Alemania",
+      "numero": "7",
+      "nombre": "Havertz",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "12",
+      "nombre": "Gonda",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "19",
+      "nombre": "Sakai",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "4",
+      "nombre": "Itakura",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "22",
+      "nombre": "Yoshida",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "5",
+      "nombre": "Nagatomo",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "6",
+      "nombre": "Endo",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "17",
+      "nombre": "Tanaka",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "14",
+      "nombre": "Ito",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "15",
+      "nombre": "Kamada",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "11",
+      "nombre": "Kubo",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Japón",
+      "numero": "25",
+      "nombre": "Maeda",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "España",
+      "numero": "23",
+      "nombre": "Simón",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "España",
+      "numero": "2",
+      "nombre": "Azpilicueta",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "España",
+      "numero": "16",
+      "nombre": "Rodri",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "España",
+      "numero": "24",
+      "nombre": "Laporte",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "España",
+      "numero": "18",
+      "nombre": "Alba",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "España",
+      "numero": "9",
+      "nombre": "Gavi",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "España",
+      "numero": "5",
+      "nombre": "Busquets",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "España",
+      "numero": "26",
+      "nombre": "Pedro",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "España",
+      "numero": "11",
+      "nombre": "Torres",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "España",
+      "numero": "10",
+      "nombre": "Asensio",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "España",
+      "numero": "21",
+      "nombre": "Olmo",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "1",
+      "nombre": "Navas",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "16",
+      "nombre": "Martínez",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "6",
+      "nombre": "Duarte",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "15",
+      "nombre": "Calvo",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "8",
+      "nombre": "Oviedo",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "4",
+      "nombre": "Fuller",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "5",
+      "nombre": "Borges",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "17",
+      "nombre": "Tejeda",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "9",
+      "nombre": "Bennette",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "12",
+      "nombre": "Campbell",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Costa Rica",
+      "numero": "7",
+      "nombre": "Contreras",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "1",
+      "nombre": "Curtois",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "19",
+      "nombre": "Dendoncker",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "2",
+      "nombre": "Alderweireld",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "5",
+      "nombre": "Vertonghen",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "21",
+      "nombre": "Castagne",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "8",
+      "nombre": "Tielemans",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "6",
+      "nombre": "Witsel",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "11",
+      "nombre": "Ferreira Carrasco",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "7",
+      "nombre": "De Bruyne",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "10",
+      "nombre": "Hazard",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Bélgica",
+      "numero": "23",
+      "nombre": "Batshuayi",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "18",
+      "nombre": "Borjan",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "2",
+      "nombre": "Johnston",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "5",
+      "nombre": "Vitória",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "4",
+      "nombre": "Miller",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "22",
+      "nombre": "Laryea",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "13",
+      "nombre": "Hutchinson",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "7",
+      "nombre": "Eustáquio",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "19",
+      "nombre": "Davies",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "11",
+      "nombre": "Buchanan",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "10",
+      "nombre": "Hoilett",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Canada",
+      "numero": "20",
+      "nombre": "David",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "1",
+      "nombre": "Sommer",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "3",
+      "nombre": "Widmer",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "5",
+      "nombre": "Akanji",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "4",
+      "nombre": "Elvedi",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "13",
+      "nombre": "Rodriguez",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "8",
+      "nombre": "Freuler",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "10",
+      "nombre": "Xhaka",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "23",
+      "nombre": "Shaqiri",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "15",
+      "nombre": "Sow",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "17",
+      "nombre": "Vargas",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Suiza",
+      "numero": "7",
+      "nombre": "Embolo",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "23",
+      "nombre": "Onana",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "19",
+      "nombre": "Fai",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "21",
+      "nombre": "Castelletto",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "3",
+      "nombre": "N'Koulou",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "25",
+      "nombre": "Tolo",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "8",
+      "nombre": "Anguissa",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "14",
+      "nombre": "Oum Gwet",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "18",
+      "nombre": "Hongla",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "20",
+      "nombre": "Mbeumo",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "13",
+      "nombre": "Choupo-Moting",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Camerún",
+      "numero": "12",
+      "nombre": "Toko Ekambi",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "23",
+      "nombre": "Rochet",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "22",
+      "nombre": "Cáceres",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "3",
+      "nombre": "Godín",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "2",
+      "nombre": "Giménez",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "16",
+      "nombre": "Olivera",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "15",
+      "nombre": "Valverde",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "6",
+      "nombre": "Bentancur",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "5",
+      "nombre": "Vecino",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "8",
+      "nombre": "Pellistri",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "9",
+      "nombre": "Suárez",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Uruguay",
+      "numero": "11",
+      "nombre": "Núñez",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "1",
+      "nombre": "Kim",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "15",
+      "nombre": "Kim",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "4",
+      "nombre": "KIM",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "19",
+      "nombre": "Kim",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "3",
+      "nombre": "Kim",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "6",
+      "nombre": "HWANG",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "5",
+      "nombre": "Jung",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "17",
+      "nombre": "Na",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "10",
+      "nombre": "Lee",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "7",
+      "nombre": "Son",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Corea del Sur",
+      "numero": "16",
+      "nombre": "Hwang",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "22",
+      "nombre": "Costa",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "20",
+      "nombre": "Cancelo",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "4",
+      "nombre": "Dias",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "13",
+      "nombre": "Pereira",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "5",
+      "nombre": "Guerreiro",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "10",
+      "nombre": "Silva",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "18",
+      "nombre": "Neves",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "25",
+      "nombre": "Otávio",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "8",
+      "nombre": "Fernandes",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "7",
+      "nombre": "Ronaldo",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Portugal",
+      "numero": "11",
+      "nombre": "Félix",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "1",
+      "nombre": "Ati-Zigi",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "26",
+      "nombre": "Seidu",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "18",
+      "nombre": "Amartey",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "23",
+      "nombre": "Djiku",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "4",
+      "nombre": "Salisu",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "17",
+      "nombre": "Rahman",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "5",
+      "nombre": "Thomas",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "21",
+      "nombre": "Abdul Samed",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "20",
+      "nombre": "Kudus",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "10",
+      "nombre": "Ayew",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Ghana",
+      "numero": "19",
+      "nombre": "Williams",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "1",
+      "nombre": "Alisson",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "2",
+      "nombre": "Danilo",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "4",
+      "nombre": "Marquinhos",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "3",
+      "nombre": "Silva",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "6",
+      "nombre": "Sandro",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "7",
+      "nombre": "Paquetá",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "5",
+      "nombre": "Casemiro",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "11",
+      "nombre": "Raphinha",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "10",
+      "nombre": "Neymar",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "20",
+      "nombre": "Júnior",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Brazil",
+      "numero": "9",
+      "nombre": "Richarlison",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "23",
+      "nombre": "Milinkovic-Savic",
+      "posicion": "Goalkeeper"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "4",
+      "nombre": "Milenkovic",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "5",
+      "nombre": "Veljkovic",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "2",
+      "nombre": "Pavlovic",
+      "posicion": "Defensa"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "14",
+      "nombre": "Zivkovic",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "16",
+      "nombre": "Lukic",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "8",
+      "nombre": "Gudelj",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "25",
+      "nombre": "Mladenovic",
+      "posicion": "Mediocampo"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "10",
+      "nombre": "Tadic",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "20",
+      "nombre": "Milinkovic-Savic",
+      "posicion": "Foward"
+    },
+    {
+      "equipo": "Serbia",
+      "numero": "9",
+      "nombre": "Mitrovic",
+      "posicion": "Foward"
+    }
+  ]
