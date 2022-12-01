@@ -1,5 +1,5 @@
 <?php
-    require 'conexion.php';
+    require '../conexion.php';
 
     $nombre = $_POST['nombre'];
     $username = $_POST['username'];
@@ -8,7 +8,7 @@
     $query = "insert into usuario(nombre, username, password) values('$nombre', '$username', '$password')";
     $consulta = mysqli_query($conn, $query);
 
-    header("location: ../inicio_sesion/login.html");
+    header("location: ../sesion/login.html");
 
     mysqli_close($conn);
 ?>

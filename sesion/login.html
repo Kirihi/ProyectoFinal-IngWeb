@@ -4,19 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <title>Inicio de sesión</title>
 </head>
 <body>
-    <h1>Iniciar sesion</h1>
-    <form action="login.php" method="post">
-        <label for="username">Username</label>
-        <input type="text" name="username" id="username"><br><br>
-        <label for="password">Contraseña</label>
-        <input type="password" name="password" id="password"><br><br><br>
-        <input type="submit" value="login">
-
+    <center><h1>Iniciar sesion</h1></center>
+    <br>
+    <form action="login.php" method="post" class="container">
+        <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username" class="form-control">
+            <br>
+            <br>
+            <label for="password">Contraseña</label>
+            <input type="password" name="password" id="password" class="form-control">
+            <br>
+            <br>
+            <br>
+            <input type="submit" value="Iniciar Sesión" class="btn btn-primary" role="button">
+            <a href="../registro/registrarUsuario.html" class="btn btn-primary" role="button">Registrarse</a>
+        </div>
     </form>
-    <br><br><br>
-    <a href="../registro/registrarUsuario.html">Registrarse</a>
+    <br>
 </body>
 </html>
