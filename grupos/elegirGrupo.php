@@ -1,46 +1,49 @@
 <?php
     require "../conexion.php";
     session_start();
-
     $grupos = array('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H');
-
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <title>Elección de grupos mundialistas</title>
 </head>
 <body>
-    <h1>Elegir grupo</h1>
+    <center><h1>Elegir grupo</h1></center>
+    <br>
     <form action="mostrar.php" method="post">
         <?php foreach($grupos as $grupo){?>
         <div>
-            <h3>Grupo <?php echo $grupo; ?></h3>
-            <input type="radio" name="grupo" id="grupo" value="<?php echo $grupo ?>">
+            <h3><input type="radio" name="grupo" id="grupo" value="<?= $grupo ?>">Grupo <?= $grupo; ?></h3>
             <?php 
                 $query = "select pais from equipo where grupo = '$grupo'";
                 $consulta = mysqli_query($conn, $query);
             ?>
-            <table>
-
-                <tr><th>Paises</th></tr>
+            <table class="table-bordered">
+                <tr>
+                    <th>Paises</th>
                     <?php
                         while($pais = mysqli_fetch_array($consulta)){
                     ?>
                     <tr>
-                        <td><?php echo $pais['pais']; ?></td>
+                        <td><?= $pais['pais']; ?></td>
                     </tr>
-                        <?php } ?>
+                    <?php
+                    }
+                    ?>
+                </tr>
             </table>
-            <?php } ?>
+            <?php
+            }
+            ?>
         </div>
         
         <div>
-            <input type="submit" value="Enviar">
+            <input type="submit" value="Enviar" class="btn btn-primary" role="button">
         </div>
 
     </form>
