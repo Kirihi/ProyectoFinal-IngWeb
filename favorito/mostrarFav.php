@@ -28,12 +28,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <title>Favoritos</title>
 </head>
 <body>
     <h1>Equipo favorito: <?php echo $arrEquipo['pais']; ?></h1>
     <div>
-        <table>
+        <table class="table-bordered">
             <tr>
                 <th>Puntos</th>
                 <th>JJ</th>

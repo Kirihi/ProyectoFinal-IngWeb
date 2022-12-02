@@ -17,6 +17,7 @@
 </head>
 <body>
     <h1>Lista de equipos</h1>
+    <br>
     <h3>Escoja un equipo</h3>
     <form action="equipo.php" method="post">
         <?php while($equipo = mysqli_fetch_array($consulta)){

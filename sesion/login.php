@@ -12,13 +12,13 @@
 
     mysqli_close($conn);
 
-    if($fetchArr['contar']>0){
+    if($fetchArr['contar'] > 0){
         $_SESSION['nombre'] = $fetchArr['nombre'];
         if($username == "admin"){
             header("location: ../admin/inicioAdmin.php");
         }
         else{
-            header("location: ../inicio.php");
+            header("location: ../index.php");
         }
        
     }
