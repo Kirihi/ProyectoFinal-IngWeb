@@ -13,7 +13,8 @@
 </head>
 <body>
     <nav class="menu">
-    <a href="partidos.php"></a>
+    <a href="partidos.php">Actualizar resultados de partido</a>
+    <a href="crear_equipo.html">Crear equipos</a>
     </nav>
     <a href="close_session.php" class="enlaces" role="button">Cerrar sesión</a>
     <br>

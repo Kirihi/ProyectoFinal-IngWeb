@@ -8,12 +8,13 @@
     <title>Crear equipos</title>
 </head>
 <body>
-    <h1>Crear equipos mundialistas</h1>
+    <center><h1>Crear equipos mundialistas</h1></center>
     <br>
-    <form action="" method="post">
-        <label for="">Pais</label>
+    <form action="process_equipo.php" method="post" class="container">
+        <div class="form-group">
+            <label for="">Pais</label>
         <select name="country" class="form-control" required>
-            <option value="0"></option>
+            <option value="0">Seleccione un pais</option>
             <option value="Catar">Catar</option>
             <option value="Ecuador">Ecuador</option>
             <option value="Senegal">Senegal</option>
@@ -29,7 +30,7 @@
             <option value="Francia">Francia</option>
             <option value="Australia">Australia</option>
             <option value="Dinamarca">Dinamarca</option>
-            <option value="Tunez">Túnez</option>
+            <option value="Túnez">Túnez</option>
             <option value="España">España</option>
             <option value="Costa Rica">Costa Rica</option>
             <option value="Alemania">Alemania</option>
@@ -71,10 +72,13 @@
         <input type="text" name="dt" class="form-control">
         <br>
         <label for="">Información</label>
-        <textarea name="info_equipo" cols="30" rows="10"></textarea>
+        <br>
+        <textarea name="info_equipo" cols="30" rows="5"></textarea>
+        <br>
         <br>
         <input type="submit" value="Enviar" class="btn btn-primary" role="button">
         <a href="inicioAdmin.php" class="btn btn-primary" role="button">Volver</a>
+        </div>
     </form>
 </body>
 </html>
