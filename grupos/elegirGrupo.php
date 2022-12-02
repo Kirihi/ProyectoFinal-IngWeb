@@ -41,7 +41,7 @@
             }
             ?>
         </div>
-        
+        <br>
         <div>
             <input type="submit" value="Enviar" class="btn btn-primary" role="button">
         </div>

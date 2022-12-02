@@ -13,11 +13,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <title>Selección de partidos a actualizar</title>
 </head>
 <body>
-    <h1>Seleccionar el partido a actualizar</h1>
-    <form action="resultado.php" method="post">
+    <center><h1>Seleccionar el partido a actualizar</h1></center>
+    <form action="resultado.php" method="post" class="container">
+        <div class="form-group">
         <?php
         $cont = 1;
         while($partido = mysqli_fetch_array($consulta)){
@@ -31,14 +33,18 @@
             $pais1 = mysqli_fetch_array($consEquipo1);
             $pais2 = mysqli_fetch_array($consEquipo2);
         ?>
-            <div>
-                <input type="radio" name="partido" id="partido" value="<?php echo $partido['id']; ?>">
-                <h3>Partido # <?php echo $cont; ?> </h3>
+            <div class="container">
+                <h3><input type="radio" name="partido" id="partido" value="<?php echo $partido['id']; ?>">Partido No. <?php echo $cont; ?> </h3>
+                <br>
                 <h4><?php echo $pais1['pais']  ?> VS <?php echo $pais2['pais']; $cont++;  ?></h4>
-
+                <br>
             </div>
         <?php } ?>
-        <input type="submit" value="Enviar">
+        <br>
+        <br>
+        <input type="submit" value="Enviar" class="btn btn-primary" role="button">
+        <a href="inicioAdmin.php" class="btn btn-primary" role="button">Volver</a>
+        </div>
     </form>
 </body>
 </html>

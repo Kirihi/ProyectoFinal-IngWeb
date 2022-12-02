@@ -19,10 +19,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <title>Actualizar resultados de partido</title>
 </head>
 <body>
-    <h1>Indique el resultado del partido</h1>
+    <center><h1>Indique el resultado del partido</h1></center>
     <?php
         $partido = mysqli_fetch_array($cons);
 
@@ -35,14 +36,19 @@
         $pais1 = mysqli_fetch_array($consEquipo1);
         $pais2 = mysqli_fetch_array($consEquipo2);
     ?>
-    <form action="actualizar.php" method="post">
+    <form action="actualizar.php" method="post" class="container">
+        <div class="form-group">
         <h2> <?php echo $pais1['pais']; ?> </h2>
-        <input type="number" name="equipo_1" id="equipo_1">
-        <h2> VS </h2>
-        <input type="number" name="equipo_2" id="equipo_2">
+        <input type="number" name="equipo_1" id="equipo_1" class="form-control">
+        <center><h2>VS</h2></center>
+        <input type="number" name="equipo_2" id="equipo_2" class="form-control">
         <h2> <?php echo $pais2['pais']; ?> </h2>
         <input type="hidden" name="idPartido" value="<?php echo $idPartido; ?>">
-        <input type="submit" value="Enviar">
+        <br>
+        <br>
+        <input type="submit" value="Enviar" class="btn btn-primary" role="button">
+        <a href="partidos.php" class="btn btn-primary" role="button">Volver</a>
+        </div>
     </form>
 </body>
 </html>
