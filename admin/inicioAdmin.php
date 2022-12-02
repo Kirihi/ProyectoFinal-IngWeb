@@ -12,14 +12,16 @@
     <title>Panel de administracion</title>
 </head>
 <body>
-    <nav class="menu">
-    <a href="partidos.php">Actualizar resultados de partido</a>
-    <a href="crear_equipo.html">Crear equipos</a>
-    <a href="crear_partido.html">Crear partido</a>
+    <nav id="navegador">
+        <a href="partidos.php">Actualizar resultados de partido</a>
+        <a href="crear_equipo.html">Crear equipos</a>
+        <a href="crear_partido.html">Crear partido</a>
     </nav>
-    <a href="close_session.php" class="enlaces" role="button">Cerrar sesión</a>
+    <div id="enlaces">
+        <a href="close_session.php" role="button">Cerrar sesión</a>
+    </div>
     <br>
     <br>
-    <h1>Bienvenido Administrador <?php echo $_SESSION['nombre'];; ?></h1>
+    <center><h1>Bienvenido Administrador <?php echo $_SESSION['nombre'];; ?></h1></center>
 </body>
 </html>
