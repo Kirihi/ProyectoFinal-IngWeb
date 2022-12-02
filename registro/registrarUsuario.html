@@ -8,14 +8,22 @@
 </head>
 <body>
     <h1>Registrar usuario</h1>
-    <form action="registrarUsuario.php" method="post">
-        <label for="nombre">Nombre</label>
-        <input type="text" name="nombre" id="nombre"><br><br>
-        <label for="username">Username</label>
-        <input type="text" name="username" id="username"><br><br>
-        <label for="pass">Contraseña</label>
-        <input type="password" name="pass" id="pass"><br><br><br>
-        <input type="submit" value="Registrar">
+    <br>
+    <br>
+    <form action="registrarUsuario.php" method="post" class="container">
+        <div class="form-group">
+            <label for="nombre">Nombre</label>
+            <input type="text" name="nombre" id="nombre" class="form-control" required>
+            <br><br>
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username" class="form-control" required>
+            <br><br>
+            <label for="pass">Contraseña</label>
+            <input type="password" name="pass" id="pass" class="form-control" required>
+            <br><br><br>
+            <input type="submit" value="Registrar" class="btn btn-primary" role="button">
+            <a href="../index.php" class="btn btn-primary" role="button">Volver</a>
+        </div>
     </form>
 </body>
 </html>
