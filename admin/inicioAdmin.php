@@ -15,6 +15,7 @@
     <nav class="menu">
     <a href="partidos.php">Actualizar resultados de partido</a>
     <a href="crear_equipo.html">Crear equipos</a>
+    <a href="crear_partido.html">Crear partido</a>
     </nav>
     <a href="close_session.php" class="enlaces" role="button">Cerrar sesión</a>
     <br>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <title>Crear partido</title>
+</head>
+<body>
+    <center><h1>Creación de los partidos del mundial</h1></center>
+    <br>
+    <form action="process_partido.php" method="post" class="container">
+        <div class="form-group">
+            <label for="">Equipo No. 1</label>
+            <select name="equipo1" class="form-control" required>
+                <option value="0">Seleccione un pais</option>
+                <option value="Catar">Catar</option>
+                <option value="Ecuador">Ecuador</option>
+                <option value="Senegal">Senegal</option>
+                <option value="Paises Bajos">Paises Bajos</option>
+                <option value="Inglaterra">Inglaterra</option>
+                <option value="Irán">Irán</option>
+                <option value="Estados Unidos">Estados Unidos</option>
+                <option value="Gales">Gales</option>
+                <option value="Argentina">Argentina</option>
+                <option value="Arabia Saudita">Arabia Saudita</option>
+                <option value="México">México</option>
+                <option value="Polonia">Polonia</option>
+                <option value="Francia">Francia</option>
+                <option value="Australia">Australia</option>
+                <option value="Dinamarca">Dinamarca</option>
+                <option value="Túnez">Túnez</option>
+                <option value="España">España</option>
+                <option value="Costa Rica">Costa Rica</option>
+                <option value="Alemania">Alemania</option>
+                <option value="Japón">Japón</option>
+                <option value="Bélgica">Bélgica</option>
+                <option value="Canadá">Canadá</option>
+                <option value="Marruecos">Marruecos</option>
+                <option value="Croacia">Croacia</option>
+                <option value="Brasil">Brasil</option>
+                <option value="Serbia">Serbia</option>
+                <option value="Suiza">Suiza</option>
+                <option value="Camerún">Camerún</option>
+                <option value="Portugal">Portugal</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Uruguay">Uruguay</option>
+                <option value="Corea del Sur">Corea del Sur</option>
+            </select>
+            <br>
+            <label for="">Equipo No. 2</label>
+            <select name="equipo2" class="form-control" required>
+                <option value="0">Seleccione un pais</option>
+                <option value="Catar">Catar</option>
+                <option value="Ecuador">Ecuador</option>
+                <option value="Senegal">Senegal</option>
+                <option value="Paises Bajos">Paises Bajos</option>
+                <option value="Inglaterra">Inglaterra</option>
+                <option value="Irán">Irán</option>
+                <option value="Estados Unidos">Estados Unidos</option>
+                <option value="Gales">Gales</option>
+                <option value="Argentina">Argentina</option>
+                <option value="Arabia Saudita">Arabia Saudita</option>
+                <option value="México">México</option>
+                <option value="Polonia">Polonia</option>
+                <option value="Francia">Francia</option>
+                <option value="Australia">Australia</option>
+                <option value="Dinamarca">Dinamarca</option>
+                <option value="Túnez">Túnez</option>
+                <option value="España">España</option>
+                <option value="Costa Rica">Costa Rica</option>
+                <option value="Alemania">Alemania</option>
+                <option value="Japón">Japón</option>
+                <option value="Bélgica">Bélgica</option>
+                <option value="Canadá">Canadá</option>
+                <option value="Marruecos">Marruecos</option>
+                <option value="Croacia">Croacia</option>
+                <option value="Brasil">Brasil</option>
+                <option value="Serbia">Serbia</option>
+                <option value="Suiza">Suiza</option>
+                <option value="Camerún">Camerún</option>
+                <option value="Portugal">Portugal</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Uruguay">Uruguay</option>
+                <option value="Corea del Sur">Corea del Sur</option>
+            </select>
+            <br>
+            <label for="">Fecha</label>
+            <input type="date" name="fecha_partido" class="form-control" required>
+            <br>
+            <label for="">Lugar</label>
+            <select name="estadios" class="form-control" required>
+                <option value="0">Seleccione un estadio</option>
+                <option value="Al Bayt">Estadio Al Bayt</option>
+                <option value="Al Janoub">Estadio Al Janoub</option>
+                <option value="Ahmad Bin Ali">Estadio Ahmad Bin Ali</option>
+                <option value="Al Thumama">Estadio Al Thumama</option>
+                <option value="Education City">Estadio Education City</option>
+                <option value="Internacional Khalifa">Estadio Internacional Khalifa</option>
+                <option value="Lusail">Estadio Lusial</option>
+                <option value="974">Estadio 974</option>
+            </select>
+            <br>
+            <label for="">Hora</label>
+            <input type="time" name="hora_partido" class="form-control" required>
+            <br>
+            <br>
+            <input type="submit" value="Enviar" class="btn btn-primary" role="button">
+            <a href="inicioAdmin.php" class="btn btn-primary" role="button">Volver</a>
+        </div>
+    </form>
+</body>
+</html>
