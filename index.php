@@ -28,8 +28,16 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <a href="equipos/equipos.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Equipos</a>
     <a href="./partidos/mostrarPartidos.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Juegos</a>
     <a href="grupos/elegirGrupo.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Posiciones</a>
+<<<<<<< HEAD:index.php
     <a href="clasificatoria/clasificatoria.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Clasificatorias</a>
+=======
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Clasificatorias</a>
+<<<<<<< HEAD
+    <a href="favorito/favorito.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favorito</a>
+=======
+>>>>>>> 33d25d283e169c1e6485a5f9748c357a28d54fc9:inicio.php
     <a href="./favorito/mostrarFav.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favorito</a>
+>>>>>>> 2bb0dd5dcc4f3a24f5a97dc6acfa32e2f0b540a1
     <div class="w3-right w3-hide-small">
         <?php
           if(isset($_SESSION['nombre'])){
