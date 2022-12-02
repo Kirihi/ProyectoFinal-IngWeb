@@ -29,8 +29,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <a href="./partidos/mostrarPartidos.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Juegos</a>
     <a href="grupos/elegirGrupo.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Posiciones</a>
     <a href="clasificatoria/clasificatoria.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Clasificatorias</a>
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Clasificatorias</a>
-    <a href="favorito/favorito.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favorito</a>
     <a href="./favorito/mostrarFav.php" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Favorito</a>
     <div class="w3-right w3-hide-small">
         <?php
@@ -42,7 +40,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
         <?php } 
           else{
         ?>
-        <a href="x" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Visitante<a>
+        <a href="avisos/noRegistro.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Visitante<a>
         <a href="./sesion/login.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Login</a>
         <?php } 
         ?>
@@ -52,10 +50,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <!-- Navbar on small screens -->
   <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
     <a href="equipos/Equipos.html" class="w3-bar-item w3-button w3-padding-large">Equipos</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">Juegos</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">Posiciones</a>
+    <a href="./partidos/mostrarPartidos.php" class="w3-bar-item w3-button w3-padding-large">Juegos</a>
+    <a href="grupos/elegirGrupo.php" class="w3-bar-item w3-button w3-padding-large">Posiciones</a>
     <a href="clasificatoria/clasificatoria.php" class="w3-bar-item w3-button w3-padding-large">Clasificatorias</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">Favoritos</a>
+    <a href="./favorito/mostrarFav.php" class="w3-bar-item w3-button w3-padding-large">Favoritos</a>
     <a href="inicio_sesion/login.php" class="w3-bar-item w3-button w3-padding-large">Login</a>
   </div>
 </div>
