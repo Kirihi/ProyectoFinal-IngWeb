@@ -54,7 +54,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <a href="grupos/elegirGrupo.php" class="w3-bar-item w3-button w3-padding-large">Posiciones</a>
     <a href="clasificatoria/clasificatoria.php" class="w3-bar-item w3-button w3-padding-large">Clasificatorias</a>
     <a href="favorito/mostrarFav.php" class="w3-bar-item w3-button w3-padding-large">Favoritos</a>
-    <a href="sesion/login.php" class="w3-bar-item w3-button w3-padding-large">Login</a>
+    <a href="sesion/login.html" class="w3-bar-item w3-button w3-padding-large">Login</a>
   </div>
 </div>
 
