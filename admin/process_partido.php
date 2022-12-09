@@ -20,6 +20,6 @@ if($stmt){
 else{
     echo "<p>No se ha creado el partido. Intente nuevamente.</p>";
     echo "<br>";
-    echo "<a href=crear_equipo.html>Crear nuevo equipo</a>";
+    echo "<a href=crear_partido.html>Crear nuevo partido</a>";
 }
 ?>
